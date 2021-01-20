@@ -14,3 +14,5 @@ need to sleep, tomorrow i have more time I should complete sometime. good time I
 #DAY 3 01/19/21
 
 Today I finish the survey test, but need to make it look prettier with CSS but tomorrow I'll have more time. I will start with an other project from freecodecamp have 3 more to go. I just want to get better and distributig the tags and do better code
+
+I did everething wron I am going to start fron the begining tomorrow, thats it for now
